@@ -79,14 +79,14 @@
         - 'description'
       data:
         number: 5
-        title: 'Explore all Glint has to offer 🚀'
-        identifier: 'GLINT-5'
+        title: 'Explore all Ember has to offer 🚀'
+        identifier: 'EMBER-5'
         description: |
-          Now that you know how to create projects, issues and Action Items, you can get started setting up your workspace. However, there’s so much more to the Glint platform than just task tracking! Dive deeper into the world of Glint, where harnessing the power of collaborative project management is just the beginning. Discover the ease and efficiency of managing your projects with us!
+          Now that you know how to create projects, issues and Action Items, you can get started setting up your workspace. However, there’s so much more to the Ember platform than just task tracking! Dive deeper into the world of Ember, where harnessing the power of collaborative project management is just the beginning. Discover the ease and efficiency of managing your projects with us!
 
           ### Additional Features
 
-          * ➡️ Navigate Glint using these 3 intuitive methods: 
+          * ➡️ Navigate Ember using these 3 intuitive methods: 
             * **Command line** (`Cmd`/`Ctrl` + `K`) - Quickly search for items or execute commands.
             * **Keyboard shortcuts** - Access a comprehensive list by clicking `Help & Support` in the lower left corner of the application.
             * **Mouse navigation** - Right-click on issues to open contextual menus and access commonly-used actions.
@@ -97,10 +97,10 @@
 
           ### Need some more support?
 
-          * [**Glint Docs**](https://docs.glint.io/) - Our resource for step-by-step tutorials! Learn how to customize the Glint platform to your team’s needs through detailed instructions.
-          * [**Slack**](https://glintcommunity.slack.com/join/shared_invite/zt-29kl7zmwz-2b3RRVTiWhhtAwzHjBm3Wg#/shared-invite/email) - Join our community on Slack to share feedback and feature suggestions!
-          * [**YouTube**](https://www.youtube.com/@glint_io) - Dive deeper into Glint’s features by watching our demo videos, tutorials and other video content.
-          * Reach out through **[LinkedIn](https://www.linkedin.com/company/glintlabs/)** and [**Twitter**](https://twitter.com/glint_io) - we’d love to see what you’re building with Glint!
+          * [**Ember Docs**](https://docs.ember.io/) - Our resource for step-by-step tutorials! Learn how to customize the Ember platform to your team’s needs through detailed instructions.
+          * [**Slack**](https://embercommunity.slack.com/join/shared_invite/zt-29kl7zmwz-2b3RRVTiWhhtAwzHjBm3Wg#/shared-invite/email) - Join our community on Slack to share feedback and feature suggestions!
+          * [**YouTube**](https://www.youtube.com/@ember_io) - Dive deeper into Ember’s features by watching our demo videos, tutorials and other video content.
+          * Reach out through **[LinkedIn](https://www.linkedin.com/company/emberlabs/)** and [**Twitter**](https://twitter.com/ember_io) - we’d love to see what you’re building with Ember!
 
           ---
 
@@ -115,7 +115,7 @@
       data:
         number: 4
         title: 'Schedule your first Action Item 📆'
-        identifier: 'GLINT-4'
+        identifier: 'EMBER-4'
         description: |
           An **Action Item** is a task to be completed by a specific team member. 
 
@@ -155,7 +155,7 @@
 
           🎉 Congratulations! You’ve completed Task 4 ✅  
 
-          ### Next: Task 5 - Explore all Glint has to offer ➡️ [](ref://?_class=tracker%3Aclass%3AIssue&_id=${issue5}&label=GLINT-5)  
+          ### Next: Task 5 - Explore all Ember has to offer ➡️ [](ref://?_class=tracker%3Aclass%3AIssue&_id=${issue5}&label=EMBER-5)  
     - type: 'create'
       _class: 'tracker:class:Issue'
       resultVariable: issue3
@@ -164,13 +164,13 @@
       data:
         number: 3
         title: 'Create your first issue 📝'
-        identifier: 'GLINT-3'
+        identifier: 'EMBER-3'
         description: |
           An **issue** represents a specific task that needs to be completed. Projects can be broken down into issues and sub-issues.
 
           ### Task 3 - Create your first issue
 
-          Let’s create your first issue in Glint!
+          Let’s create your first issue in Ember!
 
           Click the blue `+ New Issue` button at the stop of the side panel (or simply press `C` from any view!). This will open a dialog where you can enter some initial settings for your issue. 
 
@@ -191,9 +191,9 @@
 
           🎉 Congratulations! You’ve completed Task 3 ✅  
 
-          In the next step, you’ll learn how Glint has *automatically* created an Action Item for this issue, which you’ll schedule in your personal Planner. Click the button below to continue!
+          In the next step, you’ll learn how Ember has *automatically* created an Action Item for this issue, which you’ll schedule in your personal Planner. Click the button below to continue!
 
-          ### Next: Task 4 - Schedule your first Action Item ➡️  [](ref://?_class=tracker%3Aclass%3AIssue&_id=${issue4}&label=GLINT-4)
+          ### Next: Task 4 - Schedule your first Action Item ➡️  [](ref://?_class=tracker%3Aclass%3AIssue&_id=${issue4}&label=EMBER-4)
     - type: 'create'
       _class: 'tracker:class:Issue'
       resultVariable: issue2
@@ -202,7 +202,7 @@
       data:
         number: 2
         title: 'Create your first project 📌'
-        identifier: 'GLINT-2'
+        identifier: 'EMBER-2'
         description: |
           **Projects** contain all the tasks your team will be working on, and they can be organized however you’d like. 
 
@@ -212,7 +212,7 @@
 
           ### Task 2 - Create your first project
 
-          Let’s create your first project in Glint!
+          Let’s create your first project in Ember!
 
           Make sure the Tracker sidebar is open on the left side - if you don’t see it, click the two horizontal lines  `=` to reveal it.
 
@@ -231,7 +231,7 @@
 
           🎉 Congratulations! You’ve completed Task 2 ✅ 
 
-          ### Next: Task 3 - Create your first issue ➡️  [](ref://?_class=tracker%3Aclass%3AIssue&_id=${issue3}&label=GLINT-3)
+          ### Next: Task 3 - Create your first issue ➡️  [](ref://?_class=tracker%3Aclass%3AIssue&_id=${issue3}&label=EMBER-3)
     - type: 'create'
       _class: 'tracker:class:Issue'
       resultVariable: issue1
@@ -240,26 +240,26 @@
       data:
         number: 1
         status: 'tracker:status:Todo'
-        title: 'Welcome to Glint! 🌟'
-        identifier: 'GLINT-1'
+        title: 'Welcome to Ember! 🌟'
+        identifier: 'EMBER-1'
         description: |
-          ### **Welcome to Glint, your all-in-one project management platform!** 
+          ### **Welcome to Ember, your all-in-one project management platform!** 
 
-          Embark on an exciting journey to master our next-generation project management tool. Packed with features like collaborative editing, team scheduling, video conferencing and more, the Glint platform is totally customizable to your team’s unique needs.
+          Embark on an exciting journey to master our next-generation project management tool. Packed with features like collaborative editing, team scheduling, video conferencing and more, the Ember platform is totally customizable to your team’s unique needs.
 
-          Let’s get started by setting up your team workspace! You’ll complete **5 tasks** to learn about the essential features of the Glint platform:
+          Let’s get started by setting up your team workspace! You’ll complete **5 tasks** to learn about the essential features of the Ember platform:
 
-          1. Welcome to Glint! 🌟 (you are here!)
+          1. Welcome to Ember! 🌟 (you are here!)
           2. Create your first **project** 📌
           3. Create your first **issue** 📝
           4. Schedule your first **Action Item** 📆
-          5. Explore all Glint has to offer 🚀
+          5. Explore all Ember has to offer 🚀
 
-          Once you're familiar with Glint, feel free to delete these starter tasks or share them with your team!
+          Once you're familiar with Ember, feel free to delete these starter tasks or share them with your team!
 
           🎉Congratulations! You’ve completed Task 1 just by getting started ✅ Click below to proceed to Task 2!
 
-          ### Next: Task 2 - Create your first project ➡️ [](ref://?_class=tracker%3Aclass%3AIssue&_id=${issue2}&label=GLINT-2)
+          ### Next: Task 2 - Create your first project ➡️ [](ref://?_class=tracker%3Aclass%3AIssue&_id=${issue2}&label=EMBER-2)
     - type: 'default'
       _class: 'attachment:class:Attachment'
       data: 
@@ -297,8 +297,8 @@
         space: 'core:space:Space'
         color: '127775'
         icon: 'view:ids:IconWithEmoji'
-        identifier: 'GLINT'
-        name: 'Welcome to Glint!'
+        identifier: 'EMBER'
+        name: 'Welcome to Ember!'
     - type: 'create'
       _class: 'document:class:Teamspace'
       resultVariable: teamSpace
@@ -306,7 +306,7 @@
         name: 'Quick-Start Docs'
         type: 'document:spaceType:DefaultTeamspaceType'
         icon: 'view:ids:IconWithEmoji'
-        description: 'Quick guides to learn how to get the most from Glint!'
+        description: 'Quick guides to learn how to get the most from Ember!'
         private: false
         members: 
           - ${userAccount}
@@ -339,7 +339,7 @@
       collabFields:
         - 'content'
       data:
-        name: 'Creating Documents in Glint'
+        name: 'Creating Documents in Ember'
         content: |
           # **Creating a teamspace**
 
@@ -373,7 +373,7 @@
 
           # **Enrich your documents with @mentions, Action Items and live collaboration**
 
-          Documents are directly integrated within the rest of the Glint platform, making it easy to tag team members, assign Action Items and link to issues. Team members can collaborate in real time, eliminating the need to send files back and forth or meet to discuss revisions.
+          Documents are directly integrated within the rest of the Ember platform, making it easy to tag team members, assign Action Items and link to issues. Team members can collaborate in real time, eliminating the need to send files back and forth or meet to discuss revisions.
 
           # **Mentions**
 
@@ -388,7 +388,7 @@
 
           # **Real-time collaboration**
 
-          Team members can collaborate on documents at the same time! Multiple people can edit and add to documents simultaneously. Check out our [video](https://www.youtube.com/watch?v=cspdJ5TjFNQ) to learn more about collaborative editing in Glint documents!
+          Team members can collaborate on documents at the same time! Multiple people can edit and add to documents simultaneously. Check out our [video](https://www.youtube.com/watch?v=cspdJ5TjFNQ) to learn more about collaborative editing in Ember documents!
     - type: 'create'
       _class: 'attachment:class:Attachment'
       data:
@@ -421,11 +421,11 @@
       collabFields:
         - 'content'
       data:
-        name: 'Team Planning in Glint'
+        name: 'Team Planning in Ember'
         content: |
-          Glint’s **Team Planner** is a powerful tool that provides a bird's-eye view of your team's workflow, enhancing collaboration and efficiency. This is a dedicated space where you can see your team's scheduled activities and progress. 
+          Ember’s **Team Planner** is a powerful tool that provides a bird's-eye view of your team's workflow, enhancing collaboration and efficiency. This is a dedicated space where you can see your team's scheduled activities and progress. 
 
-          You can access your Team Planner any time by clicking the sun icon in the left sidebar. It won’t look like much until your team starts using Glint to schedule Action Items, but let’s dive in deeper into how this feature can improve your workflows!
+          You can access your Team Planner any time by clicking the sun icon in the left sidebar. It won’t look like much until your team starts using Ember to schedule Action Items, but let’s dive in deeper into how this feature can improve your workflows!
 
           # **Understand your team’s agenda at a glance**
 
@@ -446,7 +446,7 @@
           ***Team Planner - Calendar view***
           ![](image://file?file=${docImage4}&width=1440)
 
-          As you continue to use Action Items in Glint, you’ll discover how they seamlessly integrate into both your personal and team planning processes, elevating the way you manage and execute tasks. The Team Planner is just one of the many ways Glint empowers you and your team to stay organized, synchronized, and productive.
+          As you continue to use Action Items in Ember, you’ll discover how they seamlessly integrate into both your personal and team planning processes, elevating the way you manage and execute tasks. The Team Planner is just one of the many ways Ember empowers you and your team to stay organized, synchronized, and productive.
     - type: 'create'
       _class: 'attachment:class:Attachment'
       data:
@@ -634,9 +634,9 @@
 
           ### Нужна дополнительная поддержка?
           
-          - **[Glint Docs](https://docs.glint.io/)** — ресурс с **пошаговыми руководствами**! Узнайте, как настроить платформу под нужды вашей команды благодаря детальным инструкциям.
-          - **[Slack](https://glintcommunity.slack.com/join/shared_invite/zt-29kl7zmwz-2b3RRVTiWhhtAwzHjBm3Wg#/shared-invite/email)** — присоединяйтесь к нашему **сообществу** в Slack, чтобы делиться отзывами и предложениями по улучшению.
-          - **[YouTube](https://www.youtube.com/@glint_io)** — погружайтесь в особенности платформы, просматривая демо-**видео**, учебные пособия и другой видео-контент.
+          - **[Ember Docs](https://docs.ember.io/)** — ресурс с **пошаговыми руководствами**! Узнайте, как настроить платформу под нужды вашей команды благодаря детальным инструкциям.
+          - **[Slack](https://embercommunity.slack.com/join/shared_invite/zt-29kl7zmwz-2b3RRVTiWhhtAwzHjBm3Wg#/shared-invite/email)** — присоединяйтесь к нашему **сообществу** в Slack, чтобы делиться отзывами и предложениями по улучшению.
+          - **[YouTube](https://www.youtube.com/@ember_io)** — погружайтесь в особенности платформы, просматривая демо-**видео**, учебные пособия и другой видео-контент.
           - Свяжитесь с нами через **[LinkedIn](https://www.linkedin.com/company/bold-ru)** и **[Twitter](https://x.com/bold_ru)** — мы будем рады узнать, что вы создаёте с помощью **Bold**!
 
           ---
